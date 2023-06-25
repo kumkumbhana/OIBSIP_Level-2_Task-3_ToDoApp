@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OIBSIP_Level-2_Task-3_ToDoApp/static/css/main.49cbae5d.css",
+    "main.js": "/OIBSIP_Level-2_Task-3_ToDoApp/static/js/main.6c8a5d4d.js",
+    "index.html": "/OIBSIP_Level-2_Task-3_ToDoApp/index.html",
+    "main.49cbae5d.css.map": "/OIBSIP_Level-2_Task-3_ToDoApp/static/css/main.49cbae5d.css.map",
+    "main.6c8a5d4d.js.map": "/OIBSIP_Level-2_Task-3_ToDoApp/static/js/main.6c8a5d4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49cbae5d.css",
+    "static/js/main.6c8a5d4d.js"
+  ]
+}
